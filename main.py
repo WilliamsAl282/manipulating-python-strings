@@ -32,15 +32,16 @@ print(num_characters)
 # Part 4
 # Assign the name of the city you live in to a variable called city
 # Use square bracket notation to extract (grab) and print the THIRD character in the name of your city
-
-
+city = ('Rapid City')
+print(city[2])
 
 
 
 # Part 5
 # Assign the string 'Career Tech' to a variable called school
 # Use square brackets and a starting and ending index number to print (display) only the characters 'Tec' on your screen when you run your script
-
+school = 'Career tech'
+print(school[7:10])
 
 
 
