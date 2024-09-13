@@ -40,7 +40,7 @@ print(city[2])
 # Part 5
 # Assign the string 'Career Tech' to a variable called school
 # Use square brackets and a starting and ending index number to print (display) only the characters 'Tec' on your screen when you run your script
-school = 'Career tech'
+school = 'Career Tech'
 print(school[7:10])
 
 
@@ -50,7 +50,8 @@ print(school[7:10])
 # Assign the name of your favorite superhero or movie character to a variable
 # Use the Python upper( ) string method to print the name of your superhero/movie character in uppercase 
 # Also use the Python lower( ) string method to print the name of your superhero/movie character in lowercase 
-
+favorite_character = 'rocket raccoon'
+print(favorite_character)
 
 
 
@@ -59,3 +60,4 @@ print(school[7:10])
 # Assign this quote to a variable named message: 'One of Elizabeth's favorite desserts is blueberry cobbler.'
 # Use the escape character to tell Python to ignore the apostrophe after Elizabeth and continue reading until it reaches the end of the string
 # Then print the string stored in the message variable
+message = "One of Elizabeth's favorite desserts is blueberry cobbler"
